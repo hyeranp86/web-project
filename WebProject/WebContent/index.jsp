@@ -9,5 +9,12 @@
 <body>
 	<h2> 프로젝트 시작 </h2>
 	<h3> 프르젝트 변경 </h3>	
+	<h3> 선택하시오 </h3>
+	<select>
+		<option> ### 선택 ### </option>
+		<option> git </option>
+		<option> jsp </option>
+		<option> spring </option>
+	</select>
 </body>
 </html>
